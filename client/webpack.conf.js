@@ -1,7 +1,5 @@
 var webpack = require('webpack');
 
-var babelSettings = { stage: 0 };
-
 module.exports = {
   entry: './main.js',
   module: {
